@@ -1,0 +1,10 @@
+# Demo project README
+
+this is a simple readme file
+
+<<<<<<< HEAD
+# I hope isn't much of a problem
+=======
+
+This is a bound to cause trouble
+>>>>>>> very-bad
